@@ -108,4 +108,4 @@ The final model captures:
 
 ## Authors
 
-CY Tech – Applied Mathematics & Finance
+Bertrand Lecoeur - CY Tech - Applied Mathematics & Finance
